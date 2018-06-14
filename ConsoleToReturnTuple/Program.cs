@@ -17,6 +17,7 @@ namespace ConsoleToReturnTuple
             Console.WriteLine("boolean: {0}", tupTestTuple.Item3.ToString());
             Console.ReadLine();
             //The Third change, should result in a conflict
+            //Fourth change
 
             //Another change
         }
